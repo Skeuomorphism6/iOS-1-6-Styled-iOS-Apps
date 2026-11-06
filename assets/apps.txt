@@ -1,0 +1,11 @@
+app1:
+  name:”Medley Music Player”
+  dev:”And a Dinosaur”
+  image:”assets/medleymusicplayer.WEBP”
+  link:”https://apps.apple.com/app/medley-music-player/id1643761346”
+
+app2:
+  name:”Medley Music Player”
+  dev:”And a Dinosaur”
+  image:”assets/medleymusicplayer.WEBP”
+  link:”https://apps.apple.com/app/medley-music-player/id1643761346”
