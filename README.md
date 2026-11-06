@@ -1,5 +1,5 @@
 # iOS 1-6 Styled iOS Apps
-A list of iOS 1-6 styles iPhone apps.
+A list of iOS 1-6 styled iPhone apps.
 
 |App Name|Description|
 |-|-|
